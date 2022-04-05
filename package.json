@@ -5,9 +5,11 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "debug": "nodemon --inspect=0.0.0.0:9229 server.js"
   },
   "dependencies": {
+    "ronin-database": "^0.1.1",
     "ronin-mocks": "^0.1.6",
     "ronin-server": "^0.1.3"
   },

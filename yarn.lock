@@ -1120,7 +1120,7 @@ responselike@^1.0.2:
   dependencies:
     lowercase-keys "^1.0.0"
 
-ronin-database@^0.1.0, ronin-database@^0.1.01:
+ronin-database@^0.1.0, ronin-database@^0.1.01, ronin-database@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ronin-database/-/ronin-database-0.1.1.tgz#7139f1e34437fea6ff45a18fb807ec896f39e432"
   integrity sha512-kLQ481ZwC4K9wlfZefVANF9jZ78EiYYtNvxdHGvT+PqdeJbLZbc5Y+o3akzHQB6fB9XRcPsBYqU1p/6uQgE0mA==
